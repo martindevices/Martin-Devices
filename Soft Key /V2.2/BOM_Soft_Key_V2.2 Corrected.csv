@@ -1,0 +1,33 @@
+Name,Designator,Description,Quantity
+100nF,"C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14","GoldMax 300 Comm X7R, Ceramic, 0.1 uF, 10%, 100 VDC, 250 VDC, 125C, -55C, X7R, GoldMax, Commercial Standard, 2.5 % , 10 GOhms, 5.08mm, 5.84mm, 3.18mm, Lead Spacing = 2.54mm, 7mm, 0.51mm, 500, 80",12
+330nF,C15,Multilayer Ceramic Capacitors MLCC - Leaded 100V 0.33uF X7R 10% LS=2.54mm,1
+10uF,"C1, C2","Wurth Elektronik 10uF 35 V Aluminium Electrolytic Capacitor, WCAP-ATG8 Series 2000h 5 (Dia.) x 11mm",2
+1N4001,"D5, D6","50V 1A General Purpose Rectifier Diode, DO-41",2
+1N5711,"D1, D2, D3, D4","STMICROELECTRONICS - 1N5711 - Small Signal Schottky Diode, Single, 70 V, 15 mA, 410 mV, 200 C",4
+Ferrite Bead,"FB1, FB2","Ferrite Bead Z=68 OHM @ 100MHz, Fair-rite 2743001111",2
+10 Way Pin Header,J1,"Header 2.54mm, dual row, vertical, 10w Molex C-GRID Series, Series Number 70246, 2.54mm Pitch 10 Way 2 Row Shrouded Straight PCB Header, Through Hole",1
+PJ302M,"J2, J3, J4",PJ302M 3.5mm Jack,3
+10k,P1,POTENTIOMETER-ALPHA-9MM_RIGHT_ANGLE A10K ,1
+10k,"P2, P3",POTENTIOMETER-ALPHA-9MM_RIGHT_ANGLE B10K,2
+100R,R35,THT Resistor 1%,1
+DNP,R39,Do not place,1
+0R,R36,THT Resistor 1%,1
+10k,"R10, R26, R32, R38",THT Resistor 1%,5
+24.9k,R37,THT Resistor 1%,1
+2k,R13,THT Resistor 1%,1
+100k,"R20, R25, R28",THT Resistor 1%,3
+499R,"R9, R18, R29, R33",THT Resistor 1%,4
+1k,"R1, R2, R3, R4, R5, R6, R7, R8, R12, R14, R15, R16, R17, R19, R31, R34",THT Resistor 1%,16
+1M,R11,THT Resistor 1%,1
+4.99k,"R21, R22, R23, R24, R27, R30 ",THT Resistor 1%,6
++2.5V,TP1,Test Point,1
+GND,TP2,Test Point,1
+-1V,TP3,Test Point,1
++12V,TP4,Test Point,1
+-12V,TP5,Test Point,1
+10k,TR1,"3266W top adj cermet trimmer,10K, 6mm Bourns 3266W Series 12-Turn Through Hole Cermet Trimmer Resistor with Pin Terminations, 10k",1
+TL431ACZ-AP,U2,"STMicroelectronics TL431ACZ-AP, Adjustable Shunt Voltage Reference 2.5 - 36V, +/-1.0 % 3-Pin, TO-92AP",1
+TL072,U1,Combined THT / SMD Op Amp Dual Lo-Noise JFET Input,1
+LM6172IN,"U3, U4, U5, U6, U7","Combined THT / SMD - Dual High Speed, Low Power, Low Distortion, Voltage Feedback Amplifiers",5
+PCB Soft Key 2.2,,,1
+Front Panel,,,1
